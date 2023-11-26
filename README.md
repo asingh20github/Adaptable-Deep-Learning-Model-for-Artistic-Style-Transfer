@@ -17,3 +17,12 @@ Install the required packages using:
 
 ```bash
 pip install -r requirements.txt
+
+Clone the repository:
+
+git clone https://github.com/yourusername/neural-style-transfer.git
+cd neural-style-transfer
+
+Update the content_path and style_path variables in the script with the filenames of your images.
+
+
